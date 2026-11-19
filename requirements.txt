@@ -1,0 +1,9 @@
+statsbombpy
+ duckdb
+pandas
+numpy
+matplotlib
+mplsoccer
+scikit-learn
+scipy
+jupyter

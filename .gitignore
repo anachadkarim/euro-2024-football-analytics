@@ -1,0 +1,18 @@
+# Outputs / environnements
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+*.duckdb
+*.wal
+*.log
+.DS_Store
+Thumbs.db
+
+# Power BI : exclure les fichiers locaux, sauf le rapport préparé pour publication
+*.pbix
+!powerbi/Euro_2024_Dashboard.pbix
