@@ -1,0 +1,28 @@
+﻿{
+  "name": "UEFA EURO 2024 — Magenta & Blue",
+  "dataColors": ["#E5007D", "#00A6E8", "#A6CE39", "#FFD500", "#6A4C93", "#FF6B35", "#2EC4B6", "#F4A261"],
+  "background": "#0B1020",
+  "foreground": "#F5F7FA",
+  "tableAccent": "#E5007D",
+  "good": "#A6CE39",
+  "neutral": "#FFD500",
+  "bad": "#FF5A5F",
+  "maximum": "#E5007D",
+  "center": "#00A6E8",
+  "minimum": "#17243B",
+  "null": "#7A8799",
+  "textClasses": {
+    "label": {"color": "#F5F7FA", "fontFace": "Segoe UI", "fontSize": 11},
+    "callout": {"color": "#FFFFFF", "fontFace": "Segoe UI", "fontSize": 28},
+    "title": {"color": "#00A6E8", "fontFace": "Segoe UI Semibold", "fontSize": 14},
+    "header": {"color": "#F5F7FA", "fontFace": "Segoe UI Semibold", "fontSize": 12}
+  },
+  "visualStyles": {
+    "*": {"*": {
+      "title": [{"show": true, "fontFamily": "Segoe UI Semibold", "fontSize": 14, "color": {"solid": {"color": "#00A6E8"}}}],
+      "background": [{"show": true, "color": {"solid": {"color": "#111A2E"}}, "transparency": 0}],
+      "border": [{"show": true, "color": {"solid": {"color": "#243453"}}, "radius": 6}],
+      "visualHeader": [{"show": true}]
+    }}
+  }
+}
